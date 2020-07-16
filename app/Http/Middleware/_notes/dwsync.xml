@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="CheckForMaintenanceMode.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299396292" remote="132392259130000000" Dst="0" />
+<file name="EncryptCookies.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299436275" remote="132392259130000000" Dst="0" />
+<file name="RedirectIfAuthenticated.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299466269" remote="132392259130000000" Dst="0" />
+<file name="TrimStrings.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299466269" remote="132392259130000000" Dst="0" />
+<file name="TrustProxies.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299466269" remote="132392259130000000" Dst="0" />
+<file name="VerifyCsrfToken.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299476266" remote="132392259130000000" Dst="0" />
+<file name="CheckForMaintenanceMode.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299396292" remote="132392262610000000" Dst="0" />
+<file name="EncryptCookies.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299436275" remote="132392262610000000" Dst="0" />
+<file name="RedirectIfAuthenticated.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299466269" remote="132392262610000000" Dst="0" />
+<file name="TrimStrings.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299466269" remote="132392262610000000" Dst="0" />
+<file name="TrustProxies.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299466269" remote="132392262610000000" Dst="0" />
+<file name="VerifyCsrfToken.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299476266" remote="132392262610000000" Dst="0" />
+<file name="CheckForMaintenanceMode.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299396292" remote="132392463500000000" Dst="0" />
+<file name="EncryptCookies.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299436275" remote="132392463500000000" Dst="0" />
+<file name="RedirectIfAuthenticated.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299466269" remote="132392463510000000" Dst="0" />
+<file name="TrimStrings.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299466269" remote="132392463510000000" Dst="0" />
+<file name="TrustProxies.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299466269" remote="132392463510000000" Dst="0" />
+<file name="VerifyCsrfToken.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299476266" remote="132392463510000000" Dst="0" />
+</dwsync>

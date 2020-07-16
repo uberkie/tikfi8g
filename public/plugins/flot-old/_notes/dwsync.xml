@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="excanvas.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684528355" remote="132392501360000000" Dst="0" />
+<file name="excanvas.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684528355" remote="132392501360000000" Dst="0" />
+<file name="jquery.colorhelpers.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684538354" remote="132392501360000000" Dst="0" />
+<file name="jquery.colorhelpers.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684538354" remote="132392501360000000" Dst="0" />
+<file name="jquery.flot.canvas.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684548348" remote="132392501360000000" Dst="0" />
+<file name="jquery.flot.canvas.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684548348" remote="132392501370000000" Dst="0" />
+<file name="jquery.flot.categories.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684548348" remote="132392501370000000" Dst="0" />
+<file name="jquery.flot.categories.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684548348" remote="132392501370000000" Dst="0" />
+<file name="jquery.flot.crosshair.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684558350" remote="132392501370000000" Dst="0" />
+<file name="jquery.flot.crosshair.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684558350" remote="132392501370000000" Dst="0" />
+<file name="jquery.flot.errorbars.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684558350" remote="132392501370000000" Dst="0" />
+<file name="jquery.flot.errorbars.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684568353" remote="132392501380000000" Dst="0" />
+<file name="jquery.flot.fillbetween.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684568353" remote="132392501380000000" Dst="0" />
+<file name="jquery.flot.fillbetween.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684568353" remote="132392501380000000" Dst="0" />
+<file name="jquery.flot.image.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684578339" remote="132392501380000000" Dst="0" />
+<file name="jquery.flot.image.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684578339" remote="132392501380000000" Dst="0" />
+<file name="jquery.flot.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684578339" remote="132392501390000000" Dst="0" />
+<file name="jquery.flot.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684588335" remote="132392501390000000" Dst="0" />
+<file name="jquery.flot.navigate.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684588335" remote="132392501390000000" Dst="0" />
+<file name="jquery.flot.navigate.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684588335" remote="132392501390000000" Dst="0" />
+<file name="jquery.flot.pie.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684598332" remote="132392501400000000" Dst="0" />
+<file name="jquery.flot.pie.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684598332" remote="132392501400000000" Dst="0" />
+<file name="jquery.flot.resize.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684608329" remote="132392501400000000" Dst="0" />
+<file name="jquery.flot.resize.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684608329" remote="132392501400000000" Dst="0" />
+<file name="jquery.flot.selection.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684608329" remote="132392501400000000" Dst="0" />
+<file name="jquery.flot.selection.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684608329" remote="132392501410000000" Dst="0" />
+<file name="jquery.flot.stack.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684618326" remote="132392501410000000" Dst="0" />
+<file name="jquery.flot.stack.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684618326" remote="132392501410000000" Dst="0" />
+<file name="jquery.flot.symbol.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684618326" remote="132392501410000000" Dst="0" />
+<file name="jquery.flot.symbol.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684628322" remote="132392501410000000" Dst="0" />
+<file name="jquery.flot.threshold.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684628322" remote="132392501420000000" Dst="0" />
+<file name="jquery.flot.threshold.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684628322" remote="132392501420000000" Dst="0" />
+<file name="jquery.flot.time.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684638320" remote="132392501420000000" Dst="0" />
+<file name="jquery.flot.time.min.js" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132390046684638320" remote="132392501420000000" Dst="0" />
+</dwsync>

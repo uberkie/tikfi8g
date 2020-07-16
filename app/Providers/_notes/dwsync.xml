@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AppServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299516248" remote="132392259130000000" Dst="0" />
+<file name="AuthServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299526251" remote="132392259130000000" Dst="0" />
+<file name="BroadcastServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299546247" remote="132392259130000000" Dst="0" />
+<file name="EventServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299556239" remote="132392259130000000" Dst="0" />
+<file name="RouteServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/" local="132392253299556239" remote="132392259130000000" Dst="0" />
+<file name="AppServiceProvider.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299516248" remote="132392262610000000" Dst="0" />
+<file name="AuthServiceProvider.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299526251" remote="132392262620000000" Dst="0" />
+<file name="BroadcastServiceProvider.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299546247" remote="132392262620000000" Dst="0" />
+<file name="EventServiceProvider.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299556239" remote="132392262620000000" Dst="0" />
+<file name="RouteServiceProvider.php" server="10.47.1.3//var/www/html/mik-controller/" local="132392253299556239" remote="132392262620000000" Dst="0" />
+<file name="AppServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299516248" remote="132392463550000000" Dst="0" />
+<file name="AuthServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299526251" remote="132392463550000000" Dst="0" />
+<file name="BroadcastServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299546247" remote="132392463550000000" Dst="0" />
+<file name="EventServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299556239" remote="132392463560000000" Dst="0" />
+<file name="RouteServiceProvider.php" server="10.47.1.4//var/www/html/mik-controller/mikrotik/" local="132392253299556239" remote="132392463560000000" Dst="0" />
+</dwsync>
